@@ -8,8 +8,8 @@ AtCoder Beginner Contest の B 問題から 3 個抜粋し、解きました。
 
 ## 問題（取り組み順）
 
-- [ABC386-B](./abc386b/)
-- [ABC385-B](./abc385b/)
-- [ABC383-B](./abc381b/)
+- [abc386b](./abc386b/)
+- [abc385b](./abc385b/)
+- [abc381b](./abc381b/)
 
 ※すべて AC となることを確認済です
